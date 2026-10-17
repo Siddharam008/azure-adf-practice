@@ -1,0 +1,6 @@
+OrderID,CustomerName,OrderDate,Amount,City
+5001,Anita Patil,2026-10-01,1250.0,Pune
+5002,Rohan Sharma,2026-10-03,3400.5,Mumbai
+5003,Meera Joshi,2026-10-05,799.0,Nashik
+5004,Sahil More,2026-10-08,2150.0,Solapur
+5005,Pooja Kale,2026-10-10,5600.0,Pune
